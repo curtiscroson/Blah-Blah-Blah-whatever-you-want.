@@ -9,8 +9,7 @@
 
 ## Project Template
 
-This is a starter template for final projects. When you have completed your final project, you should replace this message (README.md) with a short 1-2 paragraph description of your project.
-
+yoyoyoyoyo we the coolest dogs in town!
 ## Getting a Copy
 
 To begin working on the project, you need 'fork' this repository. This creates a copy tied to your account on GitHub's server. Then you need to 'clone' the remote version of the repository to your local computer to begin working with it. Once you start making changes, you can push them back to your account on GitHub's server.
