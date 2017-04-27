@@ -1,4 +1,5 @@
 # Project credits
 
-* David J. Thomas - Project Management, Coding, Visualizations, and Analysis
-* Students of HIS4936, Hacking History: Programming Digital Scholarship
+* Curtis Croson - Project Management, Digital Scholarship Expert, Visualization and Analysis Expert
+
+* Rowan Reppeto - Data Scientist, Visualization and Analysis Expert
