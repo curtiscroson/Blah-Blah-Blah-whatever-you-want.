@@ -1,4 +1,7 @@
 # Project credits
 
-* Rowan Reppeto - Project Management, Coding, Visualizations, and Analysis
-* Students of HIS4936, Hacking History: Programming Digital Scholarship
+<<<<<<< HEAD
+* Curtis Croson - Project Management, Digital Scholarship Expert, Visualization and Analysis Expert
+
+* Rowan Reppeto - Data Scientist, Visualization and Analysis Expert
+=======
