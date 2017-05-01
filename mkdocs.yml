@@ -7,4 +7,5 @@ repo_name: 'GitHub'
 pages:
 - Home: 'index.md'
 - Some Page: 'some_page.md'
+- Some Other Page: 'some_other_page.md'
 - Credits: 'credits.md'
