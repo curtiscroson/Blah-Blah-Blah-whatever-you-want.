@@ -5,7 +5,9 @@ copyright: 'Copyright &copy; 2017 <a href="mailto:dave.a.base@gmail.com">David J
 repo_url: https://github.com/thePortus/his4936-starter
 repo_name: 'GitHub'
 pages:
-- Introduction: 'index.md'
+- Introduction: 'Introduction.md'
 - Scholarship: 'Scholarship.md'
 - Data Gathering: 'Data_Gathering.md'
+- Visual Analysis: ''
+- Bibliography: 'bib.md'
 - Credits: 'credits.md'
